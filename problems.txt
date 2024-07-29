@@ -1,4 +1,4 @@
 1.	Implementation of k-nearest neighbors’ classification
 2.	Implementation of linear regression
-3.	 Implementation of Naïve Bayes theorem to classify the English text
+3.	Implementation of Naïve Bayes theorem to classify the English text
 4.	Implementation of Support Vector Machine algorithm
